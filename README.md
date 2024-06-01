@@ -20,7 +20,7 @@ This project is an advanced React.js-based e-commerce website focused on providi
 - **React Router**: Client-side routing for navigating between pages.
 - **Firebase**: Backend-as-a-Service for authentication, database, and hosting.
 - **Styled Components**: CSS-in-JS solution for styling components.
-- **Stripe**: Payment processing platform for handling transactions securely.
+- **Stripe**: Payment processing platform for handling transactions securely(Simulated).
 - **Responsive Design**: Utilizing CSS media queries and flexbox/grid layout for responsiveness.
 
 ## Installation
